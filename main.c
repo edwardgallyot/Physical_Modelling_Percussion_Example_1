@@ -30,7 +30,7 @@ int main (int argc, char* argv[])
     {
         printf ("Stink!\n");
         coeffs[0] = - SHELL_RESO * 2.0 * cos(SHELL_FREQ * TWO_PI * SRATE);
-
+        coeffs[1] = SHELL_RESO * SHELL_FREQ;
     }
 
     return 0;
