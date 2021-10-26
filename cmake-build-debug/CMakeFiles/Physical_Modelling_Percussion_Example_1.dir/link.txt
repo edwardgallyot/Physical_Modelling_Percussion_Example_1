@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Physical_Modelling_Percussion_Example_1.dir/main.c.o -o Physical_Modelling_Percussion_Example_1  -lm 
