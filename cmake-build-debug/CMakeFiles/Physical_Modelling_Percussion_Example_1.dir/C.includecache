@@ -11,4 +11,8 @@ stdio.h
 -
 math.h
 -
+stdlib.h
+-
+time.h
+-
 
